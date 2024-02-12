@@ -1,14 +1,17 @@
-<TEI.2 lang="nl-1900" xml:lang="nl-1900"><teiHeader type="text" status="new"><fileDesc><titleStmt><title>Naar het middelpunt der Aarde</title><author key="Verne, Jules" ref="https://viaf.org/viaf/76323989/">Jules Verne (1828&#8211;1905)</author><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name>Distributed Proofreaders Team</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="PGDPProjectId">projectID3fb21f1123f7a</idno><idno type="epub-id">urn:uuid:376ed383-10ff-45aa-9c2f-1a510fa3aaa6</idno><idno type="PGSrc">10349-Verne-Naar-het-middelpunt-der-Aarde</idno><idno type="PGnum">10349</idno><date>2003-12-01</date><availability lang="nl" xml:lang="nl"><p>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopi&#xEB;ren, weggeven of hergebruiken onder de voorwaarden van de <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg Licentie</xref> bij dit eBoek of on-line op <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
-</p><p>Dit eBoek is geproduceerd door Jeroen Hellingman en het on-line gedistribueerd correctieteam op <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
-</p><p lang="en" xml:lang="en">This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg License</xref> included with this eBook or online at <xref url='https://www.gutenberg.org/' rel='home'>www.gutenberg.org</xref>.
-</p><p lang="en" xml:lang="en">This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+<TEI.2 lang="nl-1900" xml:lang="nl-1900"><teiHeader><fileDesc><titleStmt><title>Naar het middelpunt der Aarde</title><author key="Verne, Jules" ref="https://viaf.org/viaf/76323989/">Jules Verne (1828&#8211;1905)</author><respStmt><resp lang="en" xml:lang="en">Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name key="Distributed Proofreaders Team, The">The Distributed Proofreaders Team</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="PGclearance">gbn0311221042</idno><idno type="PGDPProjectId">projectID3fb21f1123f7a</idno><idno type="epub-id">urn:uuid:376ed383-10ff-45aa-9c2f-1a510fa3aaa6</idno><idno type="PGSrc">10349-Verne-Naar-het-middelpunt-der-Aarde</idno><idno type="PGnum">10349</idno><date>2003-12-01</date><availability lang="nl" xml:lang="nl"><p>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopi&#xEB;ren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
+</p><p>Dit eBoek is geproduceerd door Jeroen Hellingman en het on-line gedistribueerd correctieteam op <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+</p><p lang="en" xml:lang="en">This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
+</p><p lang="en" xml:lang="en">This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
 </p></availability></publicationStmt><sourceDesc><bibl><author>Jules Verne</author>
 <title>Naar het middelpunt der Aarde</title>
 <publisher>J. G. Robbers</publisher>
 <pubPlace>Rotterdam</pubPlace>
 <date>[1877]</date></bibl></sourceDesc></fileDesc><encodingDesc lang="nl" xml:lang="nl"><p>Dit bestand is in een verouderde spelling. Er is geen poging gedaan de tekst te moderniseren. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn gecorrigeerd. Dergelijke correcties zijn gemarkeerd met het corr-element.
-</p></encodingDesc><profileDesc><langUsage lang="en" xml:lang="en"><language id="nl-1900">Dutch (orthography De Vries-Te Winkel).</language><language id="nl">Dutch.</language><language id="en">English.</language><language id="la">Latin.</language><language id="it">Italian.</language><language id="xx">Cryptography.</language></langUsage></profileDesc><revisionDesc><list><item>2003-11-28 Added TEI Header.
-    </item><item>2010-05-08 Improvements for ePub.</item></list></revisionDesc></teiHeader><text><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/cover.jpg)"><figDesc>Oorspronkelijke voorkant.</figDesc></figure>
+</p></encodingDesc><profileDesc><langUsage lang="en" xml:lang="en"><language id="nl-1900">Dutch (orthography De Vries-Te Winkel)</language><language id="nl">Dutch</language><language id="en">English</language><language id="la">Latin</language><language id="it">Italian</language><language id="zxx">Cryptography</language></langUsage></profileDesc><revisionDesc><list><item>2003-11-28 Added TEI Header.
+    </item><item>2010-05-08 Improvements for ePub.
+    </item><item>2024-02-10 Higher resolution images.</item></list></revisionDesc></teiHeader><text rend="stylesheet(style/classic.css)"><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/cover.jpg)"><figDesc>Oorspronkelijke voorkant.</figDesc></figure>
+
+<pb/></p></div1><div1 id="titlepage" type="TitlePage"><p><figure id="titlepage-image" rend="image(images/titlepage.jpg)"><figDesc>Oorspronkelijke titelpagina.</figDesc></figure>
 
 </p></div1><titlePage><byline>    <docAuthor>Jules Verne</docAuthor></byline><docTitle><titlePart type="main">Naar het Middelpunt<lb/>
 der<lb/>
@@ -83,7 +86,7 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>En tegelijk ontvouwde hij zorgvuldig op zijne tafel een stuk perkament, 10 duim lang en 6 duim breed, waarop in dwarse lijnen onverklaarbare teekens stonden.
 </p><p>Wij voegen een nauwkeurig fac-simile er van hiernevens.
 
-</p><p><figure id="p007" rend="image(images/p007.gif)"/>
+</p><p><figure id="p007" rend="image(images/p007.png)"/>
 
 </p><p><pb n="8"/>Ik stel er prijs op om die zonderlinge teekens te doen kennen, want door hen werden professor Lidenbrock en zijn neef aangezet om den vreemdsten tocht der negentiende eeuw te ondernemen.
 </p><p>De professor beschouwde eenige oogenblikken deze rij letters; vervolgens zeide hij zijn bril afnemende:
@@ -114,7 +117,9 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>In een oogenblik was ik gereed.
 </p><p>&#8222;Nu zal ik u iedere letter van ons alphabet opnoemen, die met eene van deze ijslandsche letters overeenkomt. Wij zullen zien wat dat geeft. Maar, bij St. Micha&#235;l! pas op, dat ge u niet vergist.&#8221;
 </p><p>De opnoeming begon. Ik deed mijn uiterste best; de eene letter werd na de andere opgenoemd en vormde zoo de onverstaanbare opeenvolging der volgende woorden:
-</p><p> <table lang="xx" xml:lang="xx"><row><cell rows="1" cols="1">m.rnlls </cell><cell rows="1" cols="1">esreuel </cell><cell rows="1" cols="1">seeJde </cell></row><row><cell rows="1" cols="1">sgtssmf </cell><cell rows="1" cols="1">unteief </cell><cell rows="1" cols="1">niedrke </cell></row><row><cell rows="1" cols="1">kt,samn </cell><cell rows="1" cols="1">atrateS </cell><cell rows="1" cols="1">Saodrrn </cell></row><row><cell rows="1" cols="1">emtnaI </cell><cell rows="1" cols="1">nuaect </cell><cell rows="1" cols="1">rrilSa </cell></row><row><cell rows="1" cols="1">Atvaar </cell><cell rows="1" cols="1">nscrc </cell><cell rows="1" cols="1">ieaabs </cell></row><row><cell rows="1" cols="1">ccdrmi </cell><cell rows="1" cols="1">eeutul </cell><cell rows="1" cols="1">frantu </cell></row><row><cell rows="1" cols="1">dt,iac </cell><cell rows="1" cols="1">oseibo </cell><cell rows="1" cols="1">KediiI </cell></row></table>
+
+</p><p><table lang="zxx" xml:lang="zxx"><row><cell>m.rnlls  </cell><cell>esreuel   </cell><cell>seeJde</cell></row><row><cell>sgtssmf  </cell><cell>unteief   </cell><cell>niedrke</cell></row><row><cell>kt,samn  </cell><cell>atrateS   </cell><cell>Saodrrn</cell></row><row><cell>emtnaI   </cell><cell>nuaect    </cell><cell>rrilSa</cell></row><row><cell>Atvaar   </cell><cell>nscrc     </cell><cell>ieaabs</cell></row><row><cell>ccdrmi   </cell><cell>eeutul    </cell><cell>frantu</cell></row><row><cell>dt,iac   </cell><cell>oseibo    </cell><cell>KediiI</cell></row></table>
+
 </p><p>Toen dit werk af was, nam mijn oom driftig het blad, waarop ik geschreven had, en bekeek het lang met aandacht.
 </p><p>&#8222;Wat beteekent dat?&#8221; herhaalde hij werktuigelijk.
 </p><p>Op mijne eer, ik zou het hem niet hebben kunnen zeggen. Daarenboven ondervroeg hij mij ook dienaangaande niet en ging voort met tot zich zelven te spreken.
@@ -126,7 +131,7 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>&#8222;Dus word ik er toe gebracht,&#8221; hernam mijn oom, &#8222;om te denken, dat een der bezitters van dit boek deze geheimzinnige teekens heeft geschreven. Maar, voor den drommel! wie was die bezitter? Zou hij zijn naam niet ergens op dit handschrift gezet hebben?&#8221;
 </p><p>Mijn oom nam zijn bril af, kreeg een sterke loep en onderzocht nauwkeurig de eerste bladzijden van het boek. Op de keerzijde van de tweede, die van den voortitel, ontdekte hij een soort van vlek, die er op het oog als eene inktvlek uitzag. Intusschen onderscheidde men, als men het van nabij bezag, eenige half uitgewischte teekens. Mijn oom begreep, dat de hoofdzaak daar zat; hij bleef dus op de vlek turen en met behulp van zijne groote loep, bespeurde hij eindelijk de bijgaande teekens, runische letters, die hij zonder aarzelen las:
 
-</p><p><figure id="p011" rend="image(images/p011.gif)"/>
+</p><p><figure id="p011" rend="image(images/p011.png)"/>
 
 </p><p>&#8222;Arne Saknussemm!&#8221; riep hij op een zegepralenden toon, &#8222;maar dat is een naam en wel een ijslandsche naam! die van een geleerde uit de 16<hi rend="sup">de</hi> eeuw, van een beroemden goudmaker!&#8221;
 </p><p>Ik zag mijn oom met zekere bewondering aan.
@@ -147,7 +152,7 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>Ik schoof heen en weder op mijn stoel. Mijne herinneringen als latinist kwamen in opstand tegen de meening, dat deze rij van zinledige woorden zou kunnen behooren tot de zoete taal van Virgilius.
 </p><p>&#8222;Ja, latijn,&#8221; hernam mijn oom, &#8222;maar verbasterd latijn.&#8221;
 </p><p>&#8222;Het zij zoo!&#8221; dacht ik. &#8222;Als gij het ontwart, moet gij slim zijn, oom!&#8221;
-</p><p>&#8222;Laat ik nog eens goed zien,&#8221; zeide hij, het blad weder opnemende, waarop ik geschreven had. &#8222;Ziedaar eene rij van honderd twee en dertig letters, die zich in eene schijnbare wanorde voordoen. Er zijn woorden, waarin alleen medeklinkers voorkomen, zooals het eerste &#8222;<foreign lang="xx" xml:lang="xx">m.rnlls</foreign>,&#8221; andere, in tegendeel, met veel klinkers, b.v. het vijfde &#8222;<foreign lang="xx" xml:lang="xx">unteief</foreign>,&#8221; of het voorlaatste &#8222;<foreign lang="xx" xml:lang="xx">oseibo</foreign>.&#8221; Die schikking nu is blijkbaar niet willekeurig; zij is op wiskunstige gronden ingegeven door de onbekende reden, die de opeenvolging dezer letters heeft geregeld. Het is dunkt mij zeker, dat de oorspronkelijke volzin regelmatig is opgeschreven en daarna omgekeerd volgens eene wet, die ik moet <corr sic="ondekken">ontdekken</corr>. Wie den sleutel van dit geheimschrift bezat, zou het vlug lezen. Maar welke is die sleutel? Axel! hebt gij dien sleutel?&#8221;
+</p><p>&#8222;Laat ik nog eens goed zien,&#8221; zeide hij, het blad weder opnemende, waarop ik geschreven had. &#8222;Ziedaar eene rij van honderd twee en dertig letters, die zich in eene schijnbare wanorde voordoen. Er zijn woorden, waarin alleen medeklinkers voorkomen, zooals het eerste &#8222;<foreign lang="zxx" xml:lang="zxx">m.rnlls</foreign>,&#8221; andere, in tegendeel, met veel klinkers, b.v. het vijfde &#8222;<foreign lang="zxx" xml:lang="zxx">unteief</foreign>,&#8221; of het voorlaatste &#8222;<foreign lang="zxx" xml:lang="zxx">oseibo</foreign>.&#8221; Die schikking nu is blijkbaar niet willekeurig; zij is op wiskunstige gronden ingegeven door de onbekende reden, die de opeenvolging dezer letters heeft geregeld. Het is dunkt mij zeker, dat de oorspronkelijke volzin regelmatig is opgeschreven en daarna omgekeerd volgens eene wet, die ik moet <corr sic="ondekken">ontdekken</corr>. Wie den sleutel van dit geheimschrift bezat, zou het vlug lezen. Maar welke is die sleutel? Axel! hebt gij dien sleutel?&#8221;
 
 </p><p><figure id="p013"><head>Gr&#228;uben was een lieve blonde deern.</head></figure>
 
@@ -160,11 +165,11 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>&#8222;Wij zullen zien, wat dat geeft Axel! schrijf den een of anderen volzin op dit stukje papier; maar zet de letters in plaats van achter elkander in geregelde rijen, elke van vijf of zes, onder elkander.&#8221;
 </p><p>&#8222;Ik begreep, wat hij bedoelde, en onmiddelijke schreef ik van boven naar beneden:
 
-</p><p><table lang="xx" xml:lang="xx"><row><cell rows="1" cols="1">I </cell><cell rows="1" cols="1">i </cell><cell rows="1" cols="1">n </cell><cell rows="1" cols="1">i </cell><cell rows="1" cols="1">r </cell><cell rows="1" cols="1">n</cell></row><row><cell rows="1" cols="1">k </cell><cell rows="1" cols="1">n </cell><cell rows="1" cols="1">i </cell><cell rows="1" cols="1">e </cell><cell rows="1" cols="1">&#228; </cell><cell rows="1" cols="1">!</cell></row><row><cell rows="1" cols="1">b </cell><cell rows="1" cols="1">u </cell><cell rows="1" cols="1">g </cell><cell rows="1" cols="1">v </cell><cell rows="1" cols="1">u</cell></row><row><cell rows="1" cols="1">e </cell><cell rows="1" cols="1">i </cell><cell rows="1" cols="1">, </cell><cell rows="1" cols="1">e </cell><cell rows="1" cols="1">b</cell></row><row><cell rows="1" cols="1">m </cell><cell rows="1" cols="1">n </cell><cell rows="1" cols="1">l </cell><cell rows="1" cols="1">G </cell><cell rows="1" cols="1">e</cell></row></table>
+</p><p><table lang="zxx" xml:lang="zxx"><row><cell>I </cell><cell>i </cell><cell>n </cell><cell>i </cell><cell>r </cell><cell>n</cell></row><row><cell>k </cell><cell>n </cell><cell>i </cell><cell>e </cell><cell>&#228; </cell><cell>!</cell></row><row><cell>b </cell><cell>u </cell><cell>g </cell><cell>v </cell><cell>u </cell><cell/></row><row><cell>e </cell><cell>i </cell><cell>, </cell><cell>e </cell><cell>b </cell><cell/></row><row><cell>m </cell><cell>n </cell><cell>l </cell><cell>G </cell><cell>e </cell><cell/></row></table>
 
 </p><p>&#8222;Goed,&#8221; zeide de professor, zonder gelezen te hebben. &#8222;Zet nu deze woorden op een regel naast elkander.&#8221;
 </p><p>Ik gehoorzaamde en kreeg den volgenden volzin:
-</p><p lang="xx" xml:lang="xx">linirn, knie&#228;! bugvu ei,eb, mnlGe.
+</p><p lang="zxx" xml:lang="zxx">linirn, knie&#228;! bugvu ei,eb, mnlGe.
 </p><p>&#8222;Heel goed!&#8221; riep mijn oom, mij het papier uit de hand rukkende, &#8222;dat lijkt al een beetje op het oude document; de klinkers <pb n="15"/>staan in dezelfde wanorde als de medeklinkers; er zijn zelfs hoofdletters en komma&#8217;s in het midden der woorden, juist als op het perkament van Saknussemm!&#8221;
 </p><p>Ik kon niet nalaten deze opmerkingen zeer schrander te vinden.
 </p><p>&#8222;Om nu,&#8221; hernam mijn oom, zich rechtstreeks tot mij wendende, &#8222;den volzin te lezen, dien gij geschreven hebt en ik niet ken, zal het genoeg zijn om achtereenvolgens de eerste letter van ieder woord te nemen, dan de tweede, dan de derde, enz.&#8221;
@@ -176,7 +181,7 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>&#8222;Ja.... Neen....&#8221; stamelde ik.
 </p><p>&#8222;Zoo, zoo! bemint gij Gr&#228;uben!&#8221; herhaalde hij werktuiglijk. &#8222;Welnu, wij zullen deze handelwijze op het voor ons liggende document toepassen.&#8221;
 </p><p>Weder in zijne alles overheerschende beschouwing verdiept, vergat mijn oom reeds mijne onvoorzichtige woorden. Ik zeg onvoorzichtige, want het hoofd van den geleerde kon geene zaken van het hart begrijpen. Maar gelukkig won het de groote zaak van het document.
-</p><p>Op dat oogenblik, dat de voornaamste proef zou gedaan worden, schoten de oogen van professor Lidenbrock bliksemstralen door zijn bril; zijne vingers beefden, toen hij het oude perkament weder opnam; hij was diep ontroerd. Eindelijk hoestte hij hevig, en met eene ernstige stem achtereenvolgens de eerste, daarna de tweede letter van ieder woord noemende, gaf hij mij de volgende reeks op: <foreign lang="xx" xml:lang="xx">mmessunkaSenrA. icefdoK.segnittamurtnecertserrette, rotaivsadua, ednecsedsadnelacartniiiluJsiratrac Sarbmutabiledmek meretarcsilucoYsleffenSnI.</foreign>
+</p><p>Op dat oogenblik, dat de voornaamste proef zou gedaan worden, schoten de oogen van professor Lidenbrock bliksemstralen door zijn bril; zijne vingers beefden, toen hij het oude perkament weder opnam; hij was diep ontroerd. Eindelijk hoestte hij hevig, en met eene ernstige stem achtereenvolgens de eerste, daarna de tweede letter van ieder woord noemende, gaf hij mij de volgende reeks op: <foreign lang="zxx" xml:lang="zxx">mmessunkaSenrA. icefdoK.segnittamurtnecertserrette, rotaivsadua, ednecsedsadnelacartniiiluJsiratrac Sarbmutabiledmek meretarcsilucoYsleffenSnI.</foreign>
 </p><p>Toen ik gereed was, was ik waarlijk aangedaan; deze letters, &#233;&#233;n voor &#233;&#233;n opgenoemd, hadden geen zin opgeleverd; ik verwachtte dus, dat de professor een sierlijken latijnschen volzin statig van zijne lippen zou laten vloeien.
 </p><p>Maar wie had zoo iets kunnen denken! Een hevige vuistslag deed de tafel dreunen. De inkt spatte uit den koker, de pen viel uit mijne hand.
 </p><p>&#8222;Dat is het niet,&#8221; riep mijn oom, &#8222;dat heeft geen gezonden zin!&#8221;
@@ -907,7 +912,7 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>&#8222;Zie eens!&#8221; zeide mij de professor.
 </p><p>En zoo al niet in zijne vreugde, dan toch in zijne verbazing deelende, las ik op de westzijde van het blok in runische, door den tijd half uitgewischte letters, dezen duizendmaal vervloekten naam:
 
-</p><p><figure id="p087" rend="image(images/p087.gif)"/>
+</p><p><figure id="p087" rend="image(images/p087.png)"/>
 
 </p><p>&#8222;Arne Saknussemm!&#8221; riep mijn oom, &#8222;kunt gij nu nog twijfelen?&#8221; Ik antwoordde niets en keerde geheel ontzet naar mijne bank van lava terug. Dit tastbare bewijs verpletterde mij.
 </p><p>Hoe lang ik zoo in mijne gepeinzen verdiept bleef, weet ik niet. <pb n="88"/>Al wat ik weet is, dat ik, toen ik mijn hoofd ophief, mijn oom en Hans alleen in den krater zag. De IJslanders waren weggezonden en nu daalden zij weder langs de buitenste hellingen van den Sneffels af om naar Stapi terug te keeren.
@@ -1728,7 +1733,7 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>&#8222;Hoe lang veronderstelt gij dan, dat deze oceaan is?&#8221;
 </p><p>&#8222;Dertig of veertig uur gaans.&#8221;
 </p><p>&#8222;Zoo!&#8221; antwoordde ik, maar dacht toch dat die schatting wel onnauwkeurig zou zijn.
-</p><p>&#8222;Wij hebben dus geen tijd te verliezen. en morgen reeds steken wij in zee.&#8221;
+</p><p>&#8222;Wij hebben dus geen tijd te verliezen, en morgen reeds steken wij in zee.&#8221;
 </p><p>Onwillekeurig zochten mijne oogen het schip, dat ons moest overbrengen.
 </p><p>&#8222;Wij zullen ons dus inschepen,&#8221; zeide ik. &#8222;Goed! En met welk schip zullen wij den overtocht doen?&#8221;
 </p><p>&#8222;Niet met een schip, mijn jongen! maar met een goed en stevig vlot.&#8221;
@@ -1740,7 +1745,7 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>&#8222;Ja!&#8221;
 </p><p>&#8222;Heeft hij dan reeds boomen onder zijne bijl doen vallen?&#8221;
 </p><p>&#8222;O! de boomen waren reeds geveld. Kom mede en gij zult hem aan het werk zien.&#8221;
-</p><p>Na eene wandeling van een kwartier uurs zag ik Hans werken aan de andere zijde van het voorgebergte, dat de kleine natuurlijke <pb n="156"/>haven vormde; nog eenige stappen en ik was bij hem. Tot mijne groote verbazing lag een half voltooid vlot op het zand; het bestond uit balken van eene bijzondere houtsoort, en een groot aantal zware planken. kromhouten en allerlei spanten bedekten letterlijk den bodem. Er lag daar genoeg om eene geheele vloot te timmeren.
+</p><p>Na eene wandeling van een kwartier uurs zag ik Hans werken aan de andere zijde van het voorgebergte, dat de kleine natuurlijke <pb n="156"/>haven vormde; nog eenige stappen en ik was bij hem. Tot mijne groote verbazing lag een half voltooid vlot op het zand; het bestond uit balken van eene bijzondere houtsoort, en een groot aantal zware planken. Kromhouten en allerlei spanten bedekten letterlijk den bodem. Er lag daar genoeg om eene geheele vloot te timmeren.
 </p><p>&#8222;Oom!&#8221; riep ik, &#8222;wat is dat voor hout?&#8221;
 </p><p>&#8222;Het is pijnboomhout, dennenhout, beukenhout, al de soorten van noordsche kegeldragers, die versteend zijn door de werking van het zeewater.&#8221;
 </p><p>&#8222;Is het mogelijk!&#8221;
@@ -2231,7 +2236,7 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 </p><p>Zoo kwamen wij op eene plaats, waar de oever smaller werd. De zee bespeelde bijna den voet der voorgebergten, een pad van ter nauwernood een vadem breed overlatende. Tusschen twee vooruitstekende rotsen bemerkte men den ingang van een duisteren tunnel.
 </p><p>Daar stonden op een granietblok twee geheimzinnige, half uitgewischte letters, de beide voorletters van den stoutmoedigen, avontuurlijken reiziger:
 
-</p><p><figure id="p202" rend="image(images/p202.gif)"/>
+</p><p><figure id="p202" rend="image(images/p202.png)"/>
 
 </p><p>&#8222;A.S.!&#8221; riep mijn oom. &#8222;Arne Saknussemm! Altijd Arne Saknussemm!&#8221;
 
@@ -2588,79 +2593,75 @@ Rotterdam.&#8212;Jac<hi rend="sup">s</hi>. G. Robbers.</docImprint></titlePage><
 
 
 
-<pb n="233"/></p></div1></body><back id="backmatter"><div1 id="toc" type="Contents"><head>Inhoud.</head><p><ref target="ch01">I</ref>. Prof Otto Lidenbrock.&#8212;Eigenaardigheden van oom.&#8212;De studeerkamer.
-</p><p><ref target="ch02">II</ref>. Een fraai boek.&#8212;Een merkwaardige inhoud.&#8212;Het oude document.&#8212;Wat het oude papier kostte.
-</p><p><ref target="ch03">III</ref>. Een runisch handschrift;&#8212;Uitleg van het alphabet.&#8212;Het geheimschrift.&#8212;Een geleerd man.&#8212;Nichtje Gr&#228;uben.&#8212;Ontcijfering van het document.&#8212;Einde der ontcijfering.
-</p><p><ref target="ch04">IV</ref>. Vrees voor het raadselachtige werk.&#8212;Waar is oom?&#8212;Moeielijkheden der ontcijfering.&#8212;De sleutel gevonden.
-</p><p><ref target="ch05">V</ref>. De professor aan het werk.&#8212;De neef valt in slaap.&#8212;De huissleutel verdwenen.&#8212;De vreugde van mijn oom.&#8212;De lezing van het document.&#8212;De valiezen moeten gepakt worden.
-</p><p><ref target="ch06">VI</ref>. In het studeervertrek.&#8212;De Sneffels.&#8212;De warmte in den aardbol.&#8212;De vulkanen.&#8212;Inwendige hitte der aarde.
-</p><p><ref target="ch07">VII</ref>. Naar het middelpunt der aarde.&#8212;Een onmogelijke reis.&#8212;Toebereidselen tot het vertrek.&#8212;Reikiavik.&#8212;De koffer moet gepakt worden.&#8212;Naar den kelder?
-</p><p><ref target="ch08">VIII</ref>. Altona.&#8212;Kiel.&#8212;Kors&#246;r.&#8212;Professor Thomson.&#8212;Kopenhagen.&#8212;De Vor-Frelserskerk.&#8212;Duizeligheid.
-</p><p><ref target="ch09">IX</ref>. Het Kattegat.&#8212;Skagen.&#8212;Naar het middelpunt der aarde.&#8212;Het handschrift van Saknussemm.&#8212;Reikiavik.&#8212;De IJslanders.
-</p><p><ref target="ch10">X</ref>. Leeslust der IJslanders.&#8212;Letterkunde der IJslanders.&#8212;De Sneffels.&#8212;Over zee of over land?
-</p><p><ref target="ch11">XI</ref>. Eiderganzen.&#8212;Hans Bjelke.&#8212;Toestel van Rhumkorff.&#8212;Reisvoorraad.&#8212;Uitrusting voor den tocht.
-</p><p><ref target="ch12">XII</ref>. Aanvang van den tocht.&#8212;Door IJsland.&#8212;Het vlek Gufunus.&#8212;Overtocht van den Fj&#246;rd.
-</p><p><ref target="ch13">XIII</ref>. Het huis van een boer.&#8212;De IJslandsche vrouw.&#8212;Gastvrij onthaal.&#8212;IJslandsche hartelijkheid.&#8212;Melaatschen.
-</p><p><pb n="234"/><ref target="ch14">XIV</ref>. De familie van Hans.&#8212;Stapi.&#8212;Verbasterde geestelijke.&#8212;Vrees voor uitbarsting.&#8212;Te mooi om mogelijk te zijn.&#8212;Gevaar voor uitbarsting.
-</p><p><ref target="ch15">XV</ref>. Het vertrek naar Stapi.&#8212;Grondgesteldheid.&#8212;Moeielijkheid van den tocht.&#8212;De hellingen van den Sneffels.&#8212;De &#8222;mistoer&#8221;.
-</p><p><ref target="ch16">XVI</ref>. Prachtig uitzicht van den Sneffels.&#8212;In verrukking.&#8212;Naar den krater.&#8212;De vervloekte naam.&#8212;Geen zon, geen schaduw.&#8212;Lidenbrock wanhopig.&#8212;De Scartaris geeft schaduw.
-</p><p><ref target="ch17">XVII</ref>. Naar den afgrond.&#8212;De theorie van Davy bevestigd.&#8212;Geen inwendige warmte.&#8212;Op den bodem van den krater.
-</p><p><ref target="ch18">XVIII</ref>. Kalmte.&#8212;Begin der onderaardsche reis.&#8212;Schakeeringen der lava.
-</p><p><ref target="ch19">XIX</ref>. De kruisweg.&#8212;Vermoeienis van Axel.&#8212;Klimmen of dalen?&#8212;Naar boven, naar Gr&#228;uben.&#8212;Dreigend watergebrek.
-</p><p><ref target="ch20">XX</ref>. Grondgesteldheid.&#8212;Teleurgestelde hoop.&#8212;Steenkolen.&#8212;Oorsprong der steenkolen.&#8212;Vergeefsche tocht.
-</p><p><ref target="ch21">XXI</ref>. Gemoedsgesteldheid.&#8212;Opoffering van den professor.&#8212;Spanning.&#8212;Columbus nagevolgd.
-</p><p><ref target="ch22">XXII</ref>. Zeldzaam geologisch genot.&#8212;Verdwijning van Hans.
-</p><p><ref target="ch23">XXIII</ref>. Water in uitzicht.&#8212;Weder voorwaarts.&#8212;Zoekende.&#8212;Dorst gelescht.&#8212;De beek een wegwijzer.&#8212;Rustige slaap.
-</p><p><ref target="ch24">XXIV</ref>. Te horizontaal.&#8212;Bijna loodrechte lijn.&#8212;Onder den Oceaan.
-</p><p><ref target="ch25">XXV</ref>. Kalm vertrek.&#8212;Plaatsbepaling.&#8212;Heeft Hamphry Davy gelijk?&#8212;Dichtheid der lucht.&#8212;Lucht in vasten toestand.
-</p><p><ref target="ch26">XXVI</ref>. Toenemende stilzwijgendheid.&#8212;Verdwaald.
-</p><p><ref target="ch27">XXVII</ref>. Levend begraven.&#8212;Splitsing der galerij.&#8212;Bede tot God.&#8212;In de zwarte duisternis.
-</p><p><ref target="ch28">XXVIII</ref>. Een geraas!&#8212;Het geluid van woorden.&#8212;F&#246;rlorad.&#8212;Gemeenschap.&#8212;Gesprek op anderhalf uur gaans.&#8212;Bemoediging.&#8212;Bewusteloos neergeploft.
-</p><p><ref target="ch29">XXIX</ref>. Ontwaken van Axel.&#8212;Was hij krankzinnig?&#8212;De grot verlaten.
-</p><p><ref target="ch30">XXX</ref>. De zee.&#8212;Onderaardsch licht.&#8212;Onmetelijk hol.&#8212;Versterkende zeewind.&#8212;Woud van paddestoelen.&#8212;Fossiele beenderen.&#8212;Vrees voor voorwereldlijke monsters.&#8212;Gerustheid van den professor.
-</p><p><ref target="ch31">XXXI</ref>. Door een zeebad versterkt.&#8212;Vloed, ebbe en magnetische helling.&#8212;scheepstimmerhout.&#8212;Het vlot.
-</p><p><ref target="ch32">XXXII</ref>. Zeilklaar.&#8212;Vertrek van Gr&#228;ubenhaven.&#8212;Het scheepsjournaal.&#8212;Voorwereldlijke visch.&#8212;Blindheid van dien visch.&#8212;Axel&#8217;s droom.&#8212;Axel ontwaakt.
-</p><p><pb n="235"/><ref target="ch33">XXXIII</ref>. Des professors ongeduld geboekstaafd.&#8212;De lange zeereis.&#8212;In het ijzer gebeten.&#8212;Zeemonsters.&#8212;Ontsteltenis.&#8212;Strijd.&#8212;De plesiosaurus bezwijkt.
-</p><p><ref target="ch34">XXXIV</ref>. Nieuw gevaar.&#8212;Iets gezien.&#8212;Een eiland.&#8212;De <corr sic="geyer">geyser</corr>.
-</p><p><ref target="ch35">XXXV</ref>. Naderend onweder.&#8212;De rotsen van den oever.&#8212;Een orkaan.&#8212;Werking der electriciteit.&#8212;Hevigheid van den orkaan.&#8212;De electrische kogel.&#8212;Altijd op zee.
-</p><p><ref target="ch36">XXXVI</ref>. Vreugde van den professor.&#8212;Toebereidselen voor de terugreis.&#8212;Werktuigen gered.&#8212;De professor denkt aan zijne collega&#8217;s.&#8212;Op welke hoogte?
-</p><p><ref target="ch37">XXXVII</ref>. Verloren reis.&#8212;Landverkenning.&#8212;Verbastering der schildpad.&#8212;De beenderenvlakte.
-</p><p><ref target="ch38">XXXVIII</ref>. Voorwereldlijke overblijfselen.&#8212;Een menschelijk lichaam.&#8212;De reus van Palermo.&#8212;Onderzoek van een lijk.&#8212;Een onmetelijk knekelhuis.
-</p><p><ref target="ch39">XXXIX</ref>. Voorwereldlijke planten en dieren.&#8212;Mosplanten.&#8212;Mastodonten.&#8212;De aapmensch.&#8212;Niet op het uitgangspunt terug.&#8212;Een dolk.&#8212;Eene echte dagge.
-</p><p><ref target="ch40">XL</ref>. Arne Saknussemm.&#8212;Altijd dalen.&#8212;De schepen verbranden.&#8212;Een weg voor de lava.&#8212;De mijn moet springen.
-</p><p><ref target="ch41">XLI</ref>. De mijn gesprongen.&#8212;De ontploffing&#8212;Snelle vaart van het vlot.&#8212;De woede van den stortvloed&#8212;Onverwachte overstrooming.
-</p><p><ref target="ch42">XLII</ref>. De nauwe put.&#8212;Geen voedsel meer.&#8212;Levend verbranden.&#8212;De laatste maaltijd.&#8212;Een gloeiende dampkring.
-</p><p><ref target="ch43">XLIII</ref>. Miswijzend kompas.&#8212;Ontploffingen.&#8212;Een uitbarsting.&#8212;Zwavelvlammen.&#8212;Het vlot blijft liggen.&#8212;Op nieuw opgestuwd.
-</p><p><ref target="ch44">XLIV</ref>. Op aarde terug.&#8212;In Azi&#235;?&#8212;De tegenvoeters.&#8212;In de Middellandsche zee.&#8212;Stromboli.&#8212;Een glimlach van Hans.
-</p><p><ref target="ch45">XLV</ref>. In Hamburg terug.&#8212;Hans vertrekt naar IJsland.&#8212;De polen van het kompas verwisseld.
-
-
-
-<pb n="2"/></p></div1><div1 id="ads" type="Advertisements"><p>Bij den Uitgever dezes zijn mede verschenen:
-</p><p>DE REIS OM DE WERELD IN 80 DAGEN. 6<hi rend="sup">e</hi> druk. Met 52 houtgravuren &#8230; &#402;&#160;1.50.
-</p><p>DE REIS NAAR DE MAAN IN 28 DAGEN EN 12 UREN. 2<hi rend="sup">e</hi> druk. Met 60 houtgravuren &#8230; &#402;&#160;1.50.
+<pb n="233"/></p></div1></body><back id="backmatter"><div1 id="toc" type="Contents"><head>Inhoud.</head><list type="tocList"><item><ab type="tocDivNum"><ref target="ch01">I</ref>.</ab> Prof Otto Lidenbrock.&#8212;Eigenaardigheden van oom.&#8212;De studeerkamer.
+</item><item><ab type="tocDivNum"><ref target="ch02">II</ref>.</ab> Een fraai boek.&#8212;Een merkwaardige inhoud.&#8212;Het oude document.&#8212;Wat het oude papier kostte.
+</item><item><ab type="tocDivNum"><ref target="ch03">III</ref>.</ab> Een runisch handschrift;&#8212;Uitleg van het alphabet.&#8212;Het geheimschrift.&#8212;Een geleerd man.&#8212;Nichtje Gr&#228;uben.&#8212;Ontcijfering van het document.&#8212;Einde der ontcijfering.
+</item><item><ab type="tocDivNum"><ref target="ch04">IV</ref>.</ab> Vrees voor het raadselachtige werk.&#8212;Waar is oom?&#8212;Moeielijkheden der ontcijfering.&#8212;De sleutel gevonden.
+</item><item><ab type="tocDivNum"><ref target="ch05">V</ref>.</ab> De professor aan het werk.&#8212;De neef valt in slaap.&#8212;De huissleutel verdwenen.&#8212;De vreugde van mijn oom.&#8212;De lezing van het document.&#8212;De valiezen moeten gepakt worden.
+</item><item><ab type="tocDivNum"><ref target="ch06">VI</ref>.</ab> In het studeervertrek.&#8212;De Sneffels.&#8212;De warmte in den aardbol.&#8212;De vulkanen.&#8212;Inwendige hitte der aarde.
+</item><item><ab type="tocDivNum"><ref target="ch07">VII</ref>.</ab> Naar het middelpunt der aarde.&#8212;Een onmogelijke reis.&#8212;Toebereidselen tot het vertrek.&#8212;Reikiavik.&#8212;De koffer moet gepakt worden.&#8212;Naar den kelder?
+</item><item><ab type="tocDivNum"><ref target="ch08">VIII</ref>.</ab> Altona.&#8212;Kiel.&#8212;Kors&#246;r.&#8212;Professor Thomson.&#8212;Kopenhagen.&#8212;De Vor-Frelserskerk.&#8212;Duizeligheid.
+</item><item><ab type="tocDivNum"><ref target="ch09">IX</ref>.</ab> Het Kattegat.&#8212;Skagen.&#8212;Naar het middelpunt der aarde.&#8212;Het handschrift van Saknussemm.&#8212;Reikiavik.&#8212;De IJslanders.
+</item><item><ab type="tocDivNum"><ref target="ch10">X</ref>.</ab> Leeslust der IJslanders.&#8212;Letterkunde der IJslanders.&#8212;De Sneffels.&#8212;Over zee of over land?
+</item><item><ab type="tocDivNum"><ref target="ch11">XI</ref>.</ab> Eiderganzen.&#8212;Hans Bjelke.&#8212;Toestel van Rhumkorff.&#8212;Reisvoorraad.&#8212;Uitrusting voor den tocht.
+</item><item><ab type="tocDivNum"><ref target="ch12">XII</ref>.</ab> Aanvang van den tocht.&#8212;Door IJsland.&#8212;Het vlek Gufunus.&#8212;Overtocht van den Fj&#246;rd.
+</item><item><ab type="tocDivNum"><ref target="ch13">XIII</ref>.</ab> Het huis van een boer.&#8212;De IJslandsche vrouw.&#8212;Gastvrij onthaal.&#8212;IJslandsche hartelijkheid.&#8212;Melaatschen.
+</item><item><ab type="tocDivNum"><pb n="234"/><ref target="ch14">XIV</ref>.</ab> De familie van Hans.&#8212;Stapi.&#8212;Verbasterde geestelijke.&#8212;Vrees voor uitbarsting.&#8212;Te mooi om mogelijk te zijn.&#8212;Gevaar voor uitbarsting.
+</item><item><ab type="tocDivNum"><ref target="ch15">XV</ref>.</ab> Het vertrek naar Stapi.&#8212;Grondgesteldheid.&#8212;Moeielijkheid van den tocht.&#8212;De hellingen van den Sneffels.&#8212;De &#8222;mistoer&#8221;.
+</item><item><ab type="tocDivNum"><ref target="ch16">XVI</ref>.</ab> Prachtig uitzicht van den Sneffels.&#8212;In verrukking.&#8212;Naar den krater.&#8212;De vervloekte naam.&#8212;Geen zon, geen schaduw.&#8212;Lidenbrock wanhopig.&#8212;De Scartaris geeft schaduw.
+</item><item><ab type="tocDivNum"><ref target="ch17">XVII</ref>.</ab> Naar den afgrond.&#8212;De theorie van Davy bevestigd.&#8212;Geen inwendige warmte.&#8212;Op den bodem van den krater.
+</item><item><ab type="tocDivNum"><ref target="ch18">XVIII</ref>.</ab> Kalmte.&#8212;Begin der onderaardsche reis.&#8212;Schakeeringen der lava.
+</item><item><ab type="tocDivNum"><ref target="ch19">XIX</ref>.</ab> De kruisweg.&#8212;Vermoeienis van Axel.&#8212;Klimmen of dalen?&#8212;Naar boven, naar Gr&#228;uben.&#8212;Dreigend watergebrek.
+</item><item><ab type="tocDivNum"><ref target="ch20">XX</ref>.</ab> Grondgesteldheid.&#8212;Teleurgestelde hoop.&#8212;Steenkolen.&#8212;Oorsprong der steenkolen.&#8212;Vergeefsche tocht.
+</item><item><ab type="tocDivNum"><ref target="ch21">XXI</ref>.</ab> Gemoedsgesteldheid.&#8212;Opoffering van den professor.&#8212;Spanning.&#8212;Columbus nagevolgd.
+</item><item><ab type="tocDivNum"><ref target="ch22">XXII</ref>.</ab> Zeldzaam geologisch genot.&#8212;Verdwijning van Hans.
+</item><item><ab type="tocDivNum"><ref target="ch23">XXIII</ref>.</ab> Water in uitzicht.&#8212;Weder voorwaarts.&#8212;Zoekende.&#8212;Dorst gelescht.&#8212;De beek een wegwijzer.&#8212;Rustige slaap.
+</item><item><ab type="tocDivNum"><ref target="ch24">XXIV</ref>.</ab> Te horizontaal.&#8212;Bijna loodrechte lijn.&#8212;Onder den Oceaan.
+</item><item><ab type="tocDivNum"><ref target="ch25">XXV</ref>.</ab> Kalm vertrek.&#8212;Plaatsbepaling.&#8212;Heeft Hamphry Davy gelijk?&#8212;Dichtheid der lucht.&#8212;Lucht in vasten toestand.
+</item><item><ab type="tocDivNum"><ref target="ch26">XXVI</ref>.</ab> Toenemende stilzwijgendheid.&#8212;Verdwaald.
+</item><item><ab type="tocDivNum"><ref target="ch27">XXVII</ref>.</ab> Levend begraven.&#8212;Splitsing der galerij.&#8212;Bede tot God.&#8212;In de zwarte duisternis.
+</item><item><ab type="tocDivNum"><ref target="ch28">XXVIII</ref>.</ab> Een geraas!&#8212;Het geluid van woorden.&#8212;F&#246;rlorad.&#8212;Gemeenschap.&#8212;Gesprek op anderhalf uur gaans.&#8212;Bemoediging.&#8212;Bewusteloos neergeploft.
+</item><item><ab type="tocDivNum"><ref target="ch29">XXIX</ref>.</ab> Ontwaken van Axel.&#8212;Was hij krankzinnig?&#8212;De grot verlaten.
+</item><item><ab type="tocDivNum"><ref target="ch30">XXX</ref>.</ab> De zee.&#8212;Onderaardsch licht.&#8212;Onmetelijk hol.&#8212;Versterkende zeewind.&#8212;Woud van paddestoelen.&#8212;Fossiele beenderen.&#8212;Vrees voor voorwereldlijke monsters.&#8212;Gerustheid van den professor.
+</item><item><ab type="tocDivNum"><ref target="ch31">XXXI</ref>.</ab> Door een zeebad versterkt.&#8212;Vloed, ebbe en magnetische helling.&#8212;scheepstimmerhout.&#8212;Het vlot.
+</item><item><ab type="tocDivNum"><ref target="ch32">XXXII</ref>.</ab> Zeilklaar.&#8212;Vertrek van Gr&#228;ubenhaven.&#8212;Het scheepsjournaal.&#8212;Voorwereldlijke visch.&#8212;Blindheid van dien visch.&#8212;Axel&#8217;s droom.&#8212;Axel ontwaakt.
+</item><item><ab type="tocDivNum"><pb n="235"/><ref target="ch33">XXXIII</ref>.</ab> Des professors ongeduld geboekstaafd.&#8212;De lange zeereis.&#8212;In het ijzer gebeten.&#8212;Zeemonsters.&#8212;Ontsteltenis.&#8212;Strijd.&#8212;De plesiosaurus bezwijkt.
+</item><item><ab type="tocDivNum"><ref target="ch34">XXXIV</ref>.</ab> Nieuw gevaar.&#8212;Iets gezien.&#8212;Een eiland.&#8212;De <corr sic="geyer">geyser</corr>.
+</item><item><ab type="tocDivNum"><ref target="ch35">XXXV</ref>.</ab> Naderend onweder.&#8212;De rotsen van den oever.&#8212;Een orkaan.&#8212;Werking der electriciteit.&#8212;Hevigheid van den orkaan.&#8212;De electrische kogel.&#8212;Altijd op zee.
+</item><item><ab type="tocDivNum"><ref target="ch36">XXXVI</ref>.</ab> Vreugde van den professor.&#8212;Toebereidselen voor de terugreis.&#8212;Werktuigen gered.&#8212;De professor denkt aan zijne collega&#8217;s.&#8212;Op welke hoogte?
+</item><item><ab type="tocDivNum"><ref target="ch37">XXXVII</ref>.</ab> Verloren reis.&#8212;Landverkenning.&#8212;Verbastering der schildpad.&#8212;De beenderenvlakte.
+</item><item><ab type="tocDivNum"><ref target="ch38">XXXVIII</ref>.</ab> Voorwereldlijke overblijfselen.&#8212;Een menschelijk lichaam.&#8212;De reus van Palermo.&#8212;Onderzoek van een lijk.&#8212;Een onmetelijk knekelhuis.
+</item><item><ab type="tocDivNum"><ref target="ch39">XXXIX</ref>.</ab> Voorwereldlijke planten en dieren.&#8212;Mosplanten.&#8212;Mastodonten.&#8212;De aapmensch.&#8212;Niet op het uitgangspunt terug.&#8212;Een dolk.&#8212;Eene echte dagge.
+</item><item><ab type="tocDivNum"><ref target="ch40">XL</ref>.</ab> Arne Saknussemm.&#8212;Altijd dalen.&#8212;De schepen verbranden.&#8212;Een weg voor de lava.&#8212;De mijn moet springen.
+</item><item><ab type="tocDivNum"><ref target="ch41">XLI</ref>.</ab> De mijn gesprongen.&#8212;De ontploffing&#8212;Snelle vaart van het vlot.&#8212;De woede van den stortvloed&#8212;Onverwachte overstrooming.
+</item><item><ab type="tocDivNum"><ref target="ch42">XLII</ref>.</ab> De nauwe put.&#8212;Geen voedsel meer.&#8212;Levend verbranden.&#8212;De laatste maaltijd.&#8212;Een gloeiende dampkring.
+</item><item><ab type="tocDivNum"><ref target="ch43">XLIII</ref>.</ab> Miswijzend kompas.&#8212;Ontploffingen.&#8212;Een uitbarsting.&#8212;Zwavelvlammen.&#8212;Het vlot blijft liggen.&#8212;Op nieuw opgestuwd.
+</item><item><ab type="tocDivNum"><ref target="ch44">XLIV</ref>.</ab> Op aarde terug.&#8212;In Azi&#235;?&#8212;De tegenvoeters.&#8212;In de Middellandsche zee.&#8212;Stromboli.&#8212;Een glimlach van Hans.
+</item><item><ab type="tocDivNum"><ref target="ch45">XLV</ref>.</ab> In Hamburg terug.&#8212;Hans vertrekt naar IJsland.&#8212;De polen van het kompas verwisseld.</item></list><pb n="2"/></div1><div1 id="ads" type="Advertisement"><p>Bij den Uitgever dezes zijn mede verschenen:
+</p><p><xref url="pg:11318">DE REIS OM DE WERELD IN 80 DAGEN</xref>. 6<hi rend="sup">e</hi> druk. Met 52 houtgravuren &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:27309">DE REIS NAAR DE MAAN IN 28 DAGEN EN 12 UREN</xref>. 2<hi rend="sup">e</hi> druk. Met 60 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>DE KINDEREN VAN KAPITEIN GRANT. Zuid-Amerika. Met 60 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>DE KINDEREN VAN KAPITEIN GRANT. Australi&#235;. Met 50 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>DE KINDEREN VAN KAPITEIN GRANT. Stille Zuid-Zee Met 52 houtgravuren &#8230; &#402;&#160;1.50.
-</p><p>20.000 MIJLEN ONDER ZEE. Oost. Halfrond. Met 50 houtgr. &#8230; &#402;&#160;1.50.
-</p><p>20.000 MIJLEN ONDER ZEE. West. Halfrond. Met 60 houtgr. &#8230; &#402;&#160;1.50.
-</p><p>VIJF WEKEN IN EEN LUCHTBALLON Ontdekkingsreis in de Binnenlanden van Afrika. Met 75 houtgravuren &#8230; &#402;&#160;1.50.
-</p><p>HET GEHEIMZINNIGE EILAND. De Luchtschipbreukelingen. Met 54 houtgravuren &#8230; &#402;&#160;1.50.
-</p><p>HET GEHEIMZINNIGE EILAND. De Verlatene. Met 54 houtgravuren &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:11205">20.000 MIJLEN ONDER ZEE. Oost. Halfrond</xref>. Met 50 houtgr. &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:11393">20.000 MIJLEN ONDER ZEE. West. Halfrond</xref>. Met 60 houtgr. &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:19086">VIJF WEKEN IN EEN LUCHTBALLON Ontdekkingsreis in de Binnenlanden van Afrika</xref>. Met 75 houtgravuren &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:20331">HET GEHEIMZINNIGE EILAND. De Luchtschipbreukelingen</xref>. Met 54 houtgravuren &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:22580">HET GEHEIMZINNIGE EILAND. De Verlatene</xref>. Met 54 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>MICHAEL STROGOFF. De Koerier van den Czaar. Met 60 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>HET ZWARTE GOUD. Met 55 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>HEKTOR SERVADAC, De Vulkaanbewoners. Met 51 houtgr. &#8230; &#402;&#160;1.50.
 </p><p>HEKTOR SERVADAC. De terugtocht naar de aarde. Met 47 houtgravuren &#8230; &#402;&#160;1.50.
-</p><p>AVONTUREN VAN DRIE RUSSEN EN DRIE ENGELSCHEN. Gevolgd door de &#8222;Blokkadebrekers&#8221;. Met 64 houtgr. &#8230; &#402;&#160;1.50.
-</p><p>EEN KAPITEIN VAN 15 JAAR. De Walvischjagers. Met 51 houtgravuren &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:39191">AVONTUREN VAN DRIE RUSSEN EN DRIE ENGELSCHEN. Gevolgd door de &#8222;Blokkadebrekers&#8221;</xref>. Met 64 houtgr. &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:18425">EEN KAPITEIN VAN 15 JAAR. De Walvischjagers</xref>. Met 51 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>EEN KAPITEIN VAN 15 JAAR. In slavernij. Gevolgd door &#8222;Een overwintering in het ijs&#8221;. Met 56 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>DE SCHIPBREUK VAN DE CHANCELLOR. Gevolgd door &#8222;Martin Paz&#8221;. Met 56 houtgravuren &#8230; &#402;&#160;1.50.
-</p><p>WONDERLIJKE AVONTUREN VAN EEN CHINEES. Gevolgd door &#8222;Muiterij aan boord der Bounty&#8221;. Met 54 houtgr. &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:24773">WONDERLIJKE AVONTUREN VAN EEN CHINEES. Gevolgd door &#8222;Muiterij aan boord der Bounty&#8221;</xref>. Met 54 houtgr. &#8230; &#402;&#160;1.50.
 </p><p>ELDORADO EN HET MONSTERKANON VAN STAALSTAD. Gevolgd door &#8222;Meester Zacharias&#8221;. Met 51 houtgr. &#8230; &#402;&#160;1.50.
 </p><p>HET LAND DER BUITENSTE DUISTERNIS. De Pelterijhandel. Met 56 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>HET LAND DER BUITENSTE DUISTERNIS. Het Drijvende Eiland. Gevolgd door &#8222;Een Treurspel in de wolken&#8221; Met 56 houtgravuren &#8230; &#402;&#160;1.50.
-</p><p>HET STOOMHUIS. De IJzeren Reus. Met 57 houtgravuren. &#402;&#160;1.50.
-</p><p>HET STOOMHUIS. De Waanzinnige der Nerbudda. Gevolgd door &#8222;Dokter Ox&#8221; Met 56 houtgravuren &#8230; &#402;&#160;1.50.
+</p><p><xref url="pg:33075">HET STOOMHUIS. De IJzeren Reus</xref>. Met 57 houtgravuren. &#402;&#160;1.50.
+</p><p><xref url="pg:38449">HET STOOMHUIS. De Waanzinnige der Nerbudda</xref>. Gevolgd door &#8222;Dokter Ox&#8221; Met 56 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>REIZEN EN LOTGEVALLEN VAN KAPITEIN HATTERAS. De Engelschen aan de Noordpool. Met 128 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>REIZEN EN LOTGEVALLEN VAN KAPITEIN HATTERAS. De IJswoestijn. Met 127 houtgravuren &#8230; &#402;&#160;1.50.
 </p><p>EENE VLOTREIS. Acht honderd mijlen op de Amazone. Met 56 houtgravuren &#8230; &#402;&#160;1.50.
